@@ -1,2 +1,5 @@
 [credential]
 	helper = manager-core
+
+[credential]
+	helper = manager-core
